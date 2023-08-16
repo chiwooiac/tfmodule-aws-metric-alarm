@@ -1,2 +1,2 @@
-# tfmodule_aws_alarmetric
-tfmodule_aws_metricalarm
+# tfmodule-aws-metric-alarm
+tfmodule-aws-metric-alarm
